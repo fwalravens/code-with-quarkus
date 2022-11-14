@@ -33,5 +33,5 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: florw/almsession:latest
+          tags: user/almsession:latest
 
