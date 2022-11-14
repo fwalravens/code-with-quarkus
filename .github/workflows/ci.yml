@@ -4,9 +4,8 @@ name: Quarkus Codestart CI
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [ master ]
+
 
 jobs:
   build:
